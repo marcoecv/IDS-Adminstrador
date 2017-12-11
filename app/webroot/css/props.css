@@ -1,0 +1,503 @@
+#propsfrm .left {
+    width: 50%;
+    float: left;
+    position: relative;
+    padding: 15px;	
+}
+
+#propsfrm .right {
+    width: 50%;
+    float: right;
+    position: relative;
+    padding: 15px;
+}
+
+#propsfrm .inline-form label {
+    width: 200px !important;
+    padding: 0px;
+}
+#propsfrm .inline-form2 label {
+    width: 100% !important;
+    padding: 15px;
+}
+#propsfrm label {
+    width: 140px;
+    text-align: left;
+}
+
+#propsfrm .date input {
+    height: 30px;
+}
+#propsfrm .bordered-div {
+    border: 1px solid gray; 
+    padding: 15px;
+}
+
+#propsfrm .bordered-div label{
+    text-align: left;
+    width: 200px;
+}
+#propsfrm textarea{
+    /*min-width: 300px;*/
+    width: 570px;
+}
+.inline-form {
+    width: 32%;
+    display: inline-block;
+}
+
+#sportid, #leagueid, #countryid, #gameid {
+    width: 60%;
+    min-width: 105px;
+    display: inline-block;
+}
+
+#gamedate, #gametime, #wagercutoff{
+    width: 74%;
+    display: inline-flex;
+}
+
+#teamAid, #teamHid {
+    width: 55%;
+    display: inline-block;
+}
+
+#rotANumber, #rotHNumber {
+    width: 75px;
+    display: inline-block;
+}
+
+#broadcastid, #comments, #correlationid {
+    width: 75%;
+    display: inline-block;
+}
+
+.preventbuying{
+    text-align: right;
+    display: block;
+}
+
+.fieldset-restrictions {
+    border:1px solid #CCCCCC;
+    margin-top: 0em;
+    margin-left: 15px;
+    padding: 0 15px 15px 15px;
+}
+
+.legend-fieldset-restrictions {
+    margin-top: 10px;
+    font-size:16px;
+    text-align:left;
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+    font-weight: bold;
+}
+
+#gamesfilter {
+    float: right;
+    padding-right: 10px;
+}
+
+#gamesfilter .btn, #gamesfilter select {
+    display: inline;
+    height: 30px;
+    font-size: 12px;
+}
+
+#gamesfilter label {
+    font-size: 12px;
+}
+
+#gamesfilter .input-group-addon, .input-group-addon {
+    height: 30px;
+}
+
+.jstree-default .jstree-themeicon {
+    background-position: unset !important;
+    width: 0px !important;
+}
+
+.dropdown-menu li {
+    padding: 2px 0px 2px 8px;
+}
+
+#startfilter, #endfilter {
+    display: inline-flex;
+    width: 130px;	
+}
+
+#startfilter input, #endfilter input {
+    height: 30px;
+    font-size: 12px;
+}
+
+.input-group-addon {
+    width: 4pc;
+}
+
+.btn-group, .btn-group-vertical {
+    margin-top: -2px;	
+}
+
+#content {
+    overflow-y: visible;
+    height: 95%;
+}
+
+.rotationDiv {
+    width: 50px;
+}
+
+.teamSelect {
+    width: 60%;
+}
+
+.gameTree {
+    width: 100%;
+    display: inline;
+    position: absolute;
+}
+
+.hourTree {
+    width: 80px;
+    display: inline-block;
+}
+
+.teamTree {
+    display: inline-block;
+    margin-left: 50px;
+    width: 250px;
+}
+
+.statusTree {
+    width: 100px;
+    display: inline-block;
+    text-align: right;
+}
+
+.teamLine {
+    cursor: pointer;
+}
+
+#linesFilter .form-inline {
+    padding: 6px;
+    border-bottom: 2px solid #DDDDDD;
+}
+
+#linesFilter .form-group {
+    margin-right: 20px;
+}
+
+#linesFilter .form-group .btn {
+    height: 30px;
+}
+
+.inlineDiv{
+    display: inline;
+    width: 100%;
+}
+#mainContainer{
+    width: 70%
+}
+
+#propsfrm .controlWith{
+    width: 30%;
+    padding: 5px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.mainConteiner{
+    padding: 10px;
+    width: 90%
+}
+
+.mainConteinerPlayersEdition{
+    padding: 10px;
+    width: 97%
+}
+.inlineElement{
+    display: inline;
+}
+.bordered-div {
+    border: 0.5px solid gray; 
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 15px;
+    text-align: left;
+}
+
+#gameFilters{
+    width: 100%;
+}
+
+#gamesSeleccion .labelWidth{
+    width: 80px;
+    text-align: right;
+    padding-right: 10px
+}
+#gamesSeleccion .elementSize{
+    width: 180px;
+}
+
+.rightButtonsDiv{
+    float: right;
+    /*width: 20%;*/
+}
+#tableContainer{
+    width: 80%;
+}
+.gameSelectionTable thead tr{
+    background-color: #62707D;
+    color: white;
+    width: 100%;
+    font-size: 13px;
+    max-height: 40px;
+}
+.gameSelectionTable thead tr td{
+    text-align: center;
+    
+}
+.playerPropListTable.dataTable td{
+    padding: 0px;
+}
+
+
+.gameSelectionTable tbody tr{
+    background-color: #EAEAEA;
+    color: black;
+    font-size: 11px;
+}
+
+#buttonsDiv{
+    width: 100%;
+    text-align: right;
+    /*float: right;*/
+}
+
+tablesContainer {
+    width:100%;
+    text-align:center;
+    height: 500px;
+}
+
+#left {
+    padding: 5px;
+    float:left;
+    width:33%;
+    height: 400px;
+}
+
+#center {
+    padding: 5px;
+    display: inline-block;
+    margin:0 auto;
+    width:33%;
+    height: 400px;
+}
+
+#right {
+    padding: 5px;
+    float:right;
+    width:34%;
+    height: 400px;
+}
+
+#mainConteinerPlayerPropsList{
+    width: 98%;
+}
+
+.playerPropListTable thead tr{
+    background-color: #62707D;
+    color: white;
+    width: 100%
+}
+.playerPropListTable tbody tr{
+    background-color: #EAEAEA;
+    color: black;
+    font-size: 12px;
+}
+
+
+/*SelectableStyle*/
+.connected, .sortable, .exclude, .handles {
+    /*margin: auto;*/
+    padding: 0;
+    width: 600px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.sortable.grid {
+    overflow: hidden;
+}
+.connected li, .sortable li, .exclude li, .handles li {
+    list-style: none;
+    border: 1px solid #CCC;
+    margin: 5px;
+    padding: 5px;
+    height: 35px;
+}
+
+.spread{
+    background-color: #666666;
+    color: white;
+}
+
+.total{
+    background-color: #BFBFBF;
+}
+
+.moneyline{
+    background-color: #2A2E4F;
+    color: white;
+}
+.handles span {
+    cursor: move;
+}
+li.disabled {
+    opacity: 0.5;
+}
+.sortable.grid li {
+    line-height: 80px;
+    float: left;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+li.highlight {
+    background: #FEE25F;
+}
+#connected {
+    width: 440px;
+    overflow: hidden;
+    margin: auto;
+}
+.connected {
+    float: left;
+    width: 200px;
+}
+.connected.no2 {
+    float: right;
+}
+li.sortable-placeholder {
+    border: 1px dashed #CCC;
+    background: none;
+}
+#selectList{
+    width: 600px;
+    max-height: 600px;
+}
+#sortableList{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 600px;
+}
+
+
+
+
+
+
+#playerTableContainer{
+    width: 95%;
+    height: 600px;
+    overflow-y: scroll;
+    margin: 15px;
+}
+#playerPropTableContainer{
+    height: 600px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.playerPropTable tr{
+    border: 5px solid white; 
+    background-color: #BFBFBF;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.playerPropTable tr td{
+    padding: 10px;
+}
+
+#colorsTable{
+    width: 100%;
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+#colorsTable tr td{
+    width: 28%;
+    margin: 15px;
+    text-align: center;
+}
+
+.tablesContainer .right{
+    float: right;
+    width: 48%;
+    height: 600px;
+}
+
+.tablesContainer .left{
+    float: left;
+    width: 48%;
+    height: 600px;
+}
+
+
+#resultsTable .notSaved{
+    background-color: #821414;
+    color: white;
+}
+
+#resultsTable .saved{
+    background-color: #15398E;
+    color: white;
+}
+
+.resultsInsertionTable thead tr{
+    background-color: #62707D;
+    color: white;
+    font-size: 15px;
+}
+.resultsInsertionTable thead tr td{
+    text-align: center;
+}
+
+
+.resultsInsertionTable tbody tr{
+    background-color: #EAEAEA;
+    color: black;
+    font-size: 14px;
+}
+.resultsInsertionTable tbody tr:hover{
+    opacity: 0.5;
+}
+#playersEditionDiv{
+    display: none;
+}
+#insertionResults{
+    display: none;
+}
+
+.right2{
+    float: right;
+    width: 43%;
+    height: 690px;
+}
+
+.left2{
+     float: left;
+    width: 56%;
+    height: 690px;
+}

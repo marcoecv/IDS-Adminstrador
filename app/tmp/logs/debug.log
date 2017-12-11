@@ -1,0 +1,448 @@
+2017-10-23 15:49:40 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-23 15:49:40 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 11:52:24 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 11:52:24 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 12:07:54 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 12:07:54 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 14:44:31 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 14:44:31 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 14:48:42 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 14:48:42 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 16:49:46 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-10-31 16:49:46 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-11-02 14:03:00 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-11-02 14:03:00 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-11-21 09:28:15 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-11-21 09:28:15 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-11-21 09:35:27 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2017-11-21 09:35:27 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-06 18:17:02 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-06 18:17:02 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 19:30:28 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 19:30:28 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 19:33:03 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 19:33:03 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 19:34:33 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 19:34:33 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 22:41:04 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 22]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2011-10-09 22:41:04 Notice: Notice (8): Undefined variable: stores in [/var/www/administrator/app/View/Elements/games/graderesultmodal.ctp, line 31]
+Trace:
+include - APP/View/Elements/games/graderesultmodal.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::_renderElement() - CORE/Cake/View/View.php, line 1213
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Games/index.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+

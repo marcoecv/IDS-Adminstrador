@@ -1,0 +1,250 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainConteiner{
+    padding: 10px;
+    width: 90%
+}
+.bordered-div {
+    border: 0.5px solid gray; 
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 5px;
+    text-align: left;
+    
+}
+
+.bordered-div2 {
+    width: 98%;
+    height: 40px;
+    border: 0.5px solid gray; 
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 10px;
+    text-align: left;
+    float: left;
+}
+.bordered-div3 {
+    border: 0.5px solid gray; 
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    padding: 2px;
+    text-align: left;
+    width: 60%;
+}
+.bordered-divHalf {
+    border: 0.5px solid gray; 
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 2px;
+    text-align: left;
+    height: 100px;
+    width: 50%
+}
+#linehistoryTable {
+    font-size: 11px;
+    width: calc(100% - (13px));
+    table-layout: fixed;
+    background-color: #62707D;
+    color: white;
+    font-weight: bold;
+}
+
+#linehistoryTable tr td{
+    padding: 5px;
+    width: 100px;
+}
+#linehistoryTable tr td:hover{
+    background:#9AC0CA;
+    color: white;
+}
+
+
+#linehistoryTableBody{
+    background-color: #EEEEEE;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 11px;
+    color: #444;
+    font-weight: bold;
+}
+
+#linehistoryTableBody tr td{
+    border: 1px solid #ddd;
+    padding: 5px;
+    word-wrap: break-word;
+    width: 100px;
+}
+
+#linehistoryTableBody tbody tr:hover{
+    background-color:#ddd;
+}
+
+
+#linehistoryTable2 {
+    /*border: 1px solid #ddd;*/
+    font-size: 11px;
+    width: calc(100% - (13px));
+    table-layout: fixed;
+    background-color: #62707D;
+    color: white;
+    font-weight: bold;
+}
+
+#linehistoryTable2 tr td{
+    padding: 5px;
+    width: 100px;
+}
+#linehistoryTable2 tr td:hover{
+    background:#9AC0CA;
+    color: white;
+}
+
+
+#linehistoryTableBody2{
+    background-color: #EEEEEE;
+    width: 100%; 
+    border: 1px solid #ddd;
+    font-size: 11px;
+    color: #444;
+    font-weight: bold;
+}
+
+#linehistoryTableBody2 tr td{
+    border: 1px solid #ddd;
+    padding: 5px;
+    word-wrap: break-word;
+    width: 100px;
+}
+
+#linehistoryTableBody2 tbody tr:hover{
+    background-color:#ddd;
+}
+
+.inner_LineHistoryTable {
+    height:300px;
+    width: 60%;
+    overflow-y: auto;
+}
+.inner_GameContestTable {
+    background-color:#ddd;
+    height:200px;
+    width: 60%;
+    overflow-y: auto;
+}
+.wraplinehistory{
+    background-color:#ddd;
+    width: 60%;
+    background-color: #62707D;
+}
+.inner_WTATable {
+    background-color:#ddd;
+    height:700px;
+    width: 60%;
+    overflow-y: auto;
+}
+.wrapWTA{
+    background-color:#ddd;
+    width: 60%;
+    background-color: #62707D;
+}
+.inlineDiv{
+    display: inline-block;
+    width: 11%
+}
+.inlineDiv2{
+    display: inline-block;
+}
+
+.rightFloat{
+    text-align: left;
+    float: right;
+    width: 50%;
+    padding: 5px;
+}
+
+.leftFloat{
+    text-align: left;
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.rightFloat2{
+    text-align: left;
+    float: right;
+    width: 49%;
+    padding: 5px;
+}
+
+.leftFloat2{
+    text-align: left;
+    float: left;
+    width: 48%;
+    padding: 5px;
+}
+.checkDiv{
+    width: 60%;
+}
+
+.half{
+    width: 50%;
+}
+
+#headerDiv{
+    width: 60%;
+}
+#headerDivGradeResults{
+    width: 80%;
+}
+
+
+#gameScoreTitle{
+    text-align: center;
+}
+
+.halfColumn{
+    width: 50px;
+}
+
+
+.gradeProgressTable thead tr{
+    background-color: #62707D;
+    color: white;
+}
+.gradeProgressTable tbody tr{
+    background-color: #EAEAEA;
+    color: black;
+    font-size: 11px;
+}
+
+
+.selectDiv{
+    float: left;
+    width: 84%;
+}
+
+.labelWidth{
+    width: 14%
+}
+
+.selectStyle{
+    width: 83%;;
+    display: inline
+}
+
+.marginStyle{
+    margin-bottom: 15px;
+}
+
+#rightDiv{
+    float: right; 
+    width: 15%;
+    height: 145px;
+    padding-top: 3%;
+}
